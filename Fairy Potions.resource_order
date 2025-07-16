@@ -16,5 +16,16 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"objBasicCustomer","order":1,"path":"objects/objBasicCustomer/objBasicCustomer.yy",},
+    {"name":"objGlass","order":2,"path":"objects/objGlass/objGlass.yy",},
+    {"name":"objStartBg","order":3,"path":"objects/objStartBg/objStartBg.yy",},
+    {"name":"objStartButtonPlaceholder","order":4,"path":"objects/objStartButtonPlaceholder/objStartButtonPlaceholder.yy",},
+    {"name":"rmStart","order":1,"path":"rooms/rmStart/rmStart.yy",},
+    {"name":"sprBasicCustomer","order":2,"path":"sprites/sprBasicCustomer/sprBasicCustomer.yy",},
+    {"name":"sprGlass","order":3,"path":"sprites/sprGlass/sprGlass.yy",},
+    {"name":"sprShopBg","order":1,"path":"sprites/sprShopBg/sprShopBg.yy",},
+    {"name":"sprStartButtonPlaceholder","order":5,"path":"sprites/sprStartButtonPlaceholder/sprStartButtonPlaceholder.yy",},
+    {"name":"sprStartPlaceholder","order":4,"path":"sprites/sprStartPlaceholder/sprStartPlaceholder.yy",},
+  ],
 }
