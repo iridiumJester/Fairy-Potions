@@ -1,3 +1,3 @@
 image_speed = 0;
 
-position = 0;
+status = 0;

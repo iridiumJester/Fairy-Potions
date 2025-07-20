@@ -37,8 +37,6 @@
   "resources":[
     {"id":{"name":"objBasicCustomer","path":"objects/objBasicCustomer/objBasicCustomer.yy",},},
     {"id":{"name":"objGlass","path":"objects/objGlass/objGlass.yy",},},
-    {"id":{"name":"objShopBg","path":"objects/objShopBg/objShopBg.yy",},},
-    {"id":{"name":"objStartBg","path":"objects/objStartBg/objStartBg.yy",},},
     {"id":{"name":"objStartButtonPlaceholder","path":"objects/objStartButtonPlaceholder/objStartButtonPlaceholder.yy",},},
     {"id":{"name":"rmShop","path":"rooms/rmShop/rmShop.yy",},},
     {"id":{"name":"rmStart","path":"rooms/rmStart/rmStart.yy",},},
