@@ -5,11 +5,20 @@ image_blend = _color;
 action = function () 
 {
     if (instance_exists(objPotion))
+    with (objPotion)
     {
-        if (sprite_index == 0)
+        if (objPotion.fillState == 0)
         {
-            objPotion.image_blend = #ee5b74;
-        }    
+            objPotion.image_index = 1;
+            objPotion.fillState += 1;
+        }
+        else if (objPotion.fillState == 1)
+        {
+            if (objPotion.image_index == 1)
+            {
+                objPotion.image_index = 4;
+                objPotion.fillState += 1;
+            }
+        }
     }
-    
 }
